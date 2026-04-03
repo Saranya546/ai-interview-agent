@@ -1,12 +1,5 @@
 fastapi
 uvicorn
-python-dotenv
-pymongo
-openai
-opencv-python
 numpy
 pillow
-dlib
-imutils
-scipy
-fer
+opencv-python
